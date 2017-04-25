@@ -1,0 +1,101 @@
+Rule,Raw Flag,Confuse Flag,Random Flag
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,1,1
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,1
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,0
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,0
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,1
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,1
+Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,0,0,1
+McAfee Windows AV - Scan completed with no viruses found.,0,1,1
+McAfee Windows AV - Scan completed with no viruses found.,0,0,0
+McAfee Windows AV - Scan completed with no viruses found.,0,1,0
+Multiple IDS events from same source ip.,1,1,0
+Multiple IDS events from same source ip.,1,0,0
+Multiple IDS events from same source ip.,1,0,0
+Multiple IDS events from same source ip.,1,1,1
+>User authentication failed.,0,0,1
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,1
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,1
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,0
+>User authentication failed.,0,0,0
+Multiple Zeus warnings.,1,1,1
+Multiple Zeus warnings.,1,0,1
+Multiple Zeus warnings.,1,0,1
+Multiple Zeus warnings.,1,0,0
+Virus detected.,1,1,1
+Virus detected.,1,1,1
+Virus detected.,1,1,1
+Virus detected.,1,1,1
+Virus detected.,1,1,1
+Virus detected.,1,0,0
+Virus detected.,1,0,1
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,1
+Grouping of Symantec AV rules.,0,0,1
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,1,0
+Grouping of Symantec AV rules.,0,1,0
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,1
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,0
+Grouping of Symantec AV rules.,0,0,1
+Grouping of Symantec AV rules.,0,0,1
+Buffer overflow attack on rpc.stat,1,1,1
+Buffer overflow attack on rpc.stat,1,1,1
+Buffer overflow attack on rpc.stat,1,1,0
+Buffer overflow attack on rpc.stat,1,0,1
+Buffer overflow attack on rpc.stat,1,0,1
+Buffer overflow attack on rpc.stat,1,1,1
+Possible buffer overflow attempt.,0,1,0
+Possible buffer overflow attempt.,0,1,1
+Possible buffer overflow attempt.,0,0,1
+Possible buffer overflow attempt.,0,0,1
+Possible buffer overflow attempt.,0,0,1
+Possible buffer overflow attempt.,0,0,0
+Possible buffer overflow attempt.,0,0,1
+Possible buffer overflow attempt.,0,0,1
+Possible buffer overflow attempt.,0,0,1
+Multiple viruses detected - Possible outbreak.,1,1,1
+Multiple viruses detected - Possible outbreak.,1,1,1
+Multiple viruses detected - Possible outbreak.,1,1,0
+Multiple viruses detected - Possible outbreak.,1,0,1
+Multiple viruses detected - Possible outbreak.,1,0,1
+Multiple viruses detected - Possible outbreak.,1,0,0
+Partition usage reached 100% (disk space monitor).,0,0,1
+Partition usage reached 100% (disk space monitor).,0,0,1
+Partition usage reached 100% (disk space monitor).,0,0,1
+Partition usage reached 100% (disk space monitor).,0,0,0
+Partition usage reached 100% (disk space monitor).,0,0,0
+Windows Adware/Spyware application found.,1,1,0
+Windows Adware/Spyware application found.,1,1,0
+Windows Adware/Spyware application found.,1,1,0
+Windows Adware/Spyware application found.,1,1,0
+Windows Adware/Spyware application found.,1,1,0
+Windows Adware/Spyware application found.,1,1,1
+Windows Adware/Spyware application found.,1,0,0
+Windows Adware/Spyware application found.,1,1,0
+Blacklisted user agent (known malicious user agent).,1,1,0
+Blacklisted user agent (known malicious user agent).,1,0,0
+Blacklisted user agent (known malicious user agent).,1,1,0
+Blacklisted user agent (known malicious user agent).,1,0,1
+Blacklisted user agent (known malicious user agent).,1,1,1
+Blacklisted user agent (known malicious user agent).,1,0,1
+Blacklisted user agent (known malicious user agent).,1,1,1
+Blacklisted user agent (known malicious user agent).,1,1,0
+CMS (WordPress or Joomla) brute force attempt.,0,1,0
+CMS (WordPress or Joomla) brute force attempt.,0,1,1
+CMS (WordPress or Joomla) brute force attempt.,0,1,0
+CMS (WordPress or Joomla) brute force attempt.,0,1,1
+CMS (WordPress or Joomla) brute force attempt.,0,0,0
+CMS (WordPress or Joomla) brute force attempt.,0,0,1
+CMS (WordPress or Joomla) brute force attempt.,0,0,0
+CMS (WordPress or Joomla) brute force attempt.,0,0,0
